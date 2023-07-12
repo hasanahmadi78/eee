@@ -1,4 +1,4 @@
-*.cpp
+*.py
 *.log
 test/
 *.html
